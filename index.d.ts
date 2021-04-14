@@ -4,8 +4,13 @@ declare module 'country-region-data' {
         shortCode: string;
     }
 
+    export interface CountryName {
+        en: string;
+        es: string;
+    }
+
     export interface Country {
-        countryName: string;
+        countryName: CountryName;
         countryShortCode: string;
         regions: Region[];
     }
