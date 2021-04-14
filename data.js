@@ -16,7 +16,10 @@
 
 return [
   {
-    "countryName": "Afghanistan",
+    "countryName": {
+      "en": "Afghanistan",
+      "es": "Afganistán"
+    },
     "countryShortCode": "AF",
     "regions": [
       {
@@ -158,7 +161,10 @@ return [
     ]
   },
   {
-    "countryName": "Åland Islands",
+    "countryName": {
+      "en": "Åland Islands",
+      "es": "Åland, Islas"
+    },
     "countryShortCode": "AX",
     "regions": [
       {
@@ -228,7 +234,10 @@ return [
     ]
   },
   {
-    "countryName": "Albania",
+    "countryName": {
+      "en": "Albania",
+      "es": "Albania"
+    },
     "countryShortCode": "AL",
     "regions": [
       {
@@ -282,7 +291,10 @@ return [
     ]
   },
   {
-    "countryName": "Algeria",
+    "countryName": {
+      "en": "Algeria",
+      "es": "Argelia"
+    },
     "countryShortCode": "DZ",
     "regions": [
       {
@@ -480,7 +492,10 @@ return [
     ]
   },
   {
-    "countryName": "American Samoa",
+    "countryName": {
+      "en": "American Samoa",
+      "es": "Samoa Americana"
+    },
     "countryShortCode": "AS",
     "regions": [
       {
@@ -510,7 +525,10 @@ return [
     ]
   },
   {
-    "countryName": "Andorra",
+    "countryName": {
+      "en": "Andorra",
+      "es": "Andorra"
+    },
     "countryShortCode": "AD",
     "regions": [
       {
@@ -544,7 +562,10 @@ return [
     ]
   },
   {
-    "countryName": "Angola",
+    "countryName": {
+      "en": "Angola",
+      "es": "Angola"
+    },
     "countryShortCode": "AO",
     "regions": [
       {
@@ -622,7 +643,10 @@ return [
     ]
   },
   {
-    "countryName": "Anguilla",
+    "countryName": {
+      "en": "Anguilla",
+      "es": "Anguila"
+    },
     "countryShortCode": "AI",
     "regions": [
       {
@@ -716,7 +740,10 @@ return [
     ]
   },
   {
-    "countryName": "Antarctica",
+    "countryName": {
+      "en": "Antarctica",
+      "es": "Antártida"
+    },
     "countryShortCode": "AQ",
     "regions": [
       {
@@ -726,7 +753,10 @@ return [
     ]
   },
   {
-    "countryName": "Antigua and Barbuda",
+    "countryName": {
+      "en": "Antigua and Barbuda",
+      "es": "Antigua y Barbuda"
+    },
     "countryShortCode": "AG",
     "regions": [
       {
@@ -860,7 +890,10 @@ return [
     ]
   },
   {
-    "countryName": "Argentina",
+    "countryName": {
+      "en": "Argentina",
+      "es": "Argentina"
+    },
     "countryShortCode": "AR",
     "regions": [
       {
@@ -962,7 +995,10 @@ return [
     ]
   },
   {
-    "countryName": "Armenia",
+    "countryName": {
+      "en": "Armenia",
+      "es": "Armenia"
+    },
     "countryShortCode": "AM",
     "regions": [
       {
@@ -1012,7 +1048,10 @@ return [
     ]
   },
   {
-    "countryName": "Aruba",
+    "countryName": {
+      "en": "Aruba",
+      "es": "Aruba"
+    },
     "countryShortCode": "AW",
     "regions": [
       {
@@ -1022,7 +1061,10 @@ return [
     ]
   },
   {
-    "countryName": "Australia",
+    "countryName": {
+      "en": "Australia",
+      "es": "Australia"
+    },
     "countryShortCode": "AU",
     "regions": [
       {
@@ -1060,7 +1102,10 @@ return [
     ]
   },
   {
-    "countryName": "Austria",
+    "countryName": {
+      "en": "Austria",
+      "es": "Austria"
+    },
     "countryShortCode": "AT",
     "regions": [
       {
@@ -1102,7 +1147,10 @@ return [
     ]
   },
   {
-    "countryName": "Azerbaijan",
+    "countryName": {
+      "en": "Azerbaijan",
+      "es": "Azerbaiyán"
+    },
     "countryShortCode": "AZ",
     "regions": [
       {
@@ -1376,7 +1424,10 @@ return [
     ]
   },
   {
-    "countryName": "Bahamas",
+    "countryName": {
+      "en": "Bahamas",
+      "es": "Bahamas"
+    },
     "countryShortCode": "BS",
     "regions": [
       {
@@ -1518,7 +1569,10 @@ return [
     ]
   },
   {
-    "countryName": "Bahrain",
+    "countryName": {
+      "en": "Bahrain",
+      "es": "Baréin"
+    },
     "countryShortCode": "BH",
     "regions": [
       {
@@ -1544,7 +1598,10 @@ return [
     ]
   },
   {
-    "countryName": "Bangladesh",
+    "countryName": {
+      "en": "Bangladesh",
+      "es": "Bangladés"
+    },
     "countryShortCode": "BD",
     "regions": [
       {
@@ -1582,7 +1639,10 @@ return [
     ]
   },
   {
-    "countryName": "Barbados",
+    "countryName": {
+      "en": "Barbados",
+      "es": "Barbados"
+    },
     "countryShortCode": "BB",
     "regions": [
       {
@@ -1632,7 +1692,10 @@ return [
     ]
   },
   {
-    "countryName": "Belarus",
+    "countryName": {
+      "en": "Belarus",
+      "es": "Belarús"
+    },
     "countryShortCode": "BY",
     "regions": [
       {
@@ -1666,7 +1729,10 @@ return [
     ]
   },
   {
-    "countryName": "Belgium",
+    "countryName": {
+      "en": "Belgium",
+      "es": "Bélgica"
+    },
     "countryShortCode": "BE",
     "regions": [
       {
@@ -1684,7 +1750,10 @@ return [
     ]
   },
   {
-    "countryName": "Belize",
+    "countryName": {
+      "en": "Belize",
+      "es": "Belice"
+    },
     "countryShortCode": "BZ",
     "regions": [
       {
@@ -1714,7 +1783,10 @@ return [
     ]
   },
   {
-    "countryName": "Benin",
+    "countryName": {
+      "en": "Benin",
+      "es": "Benín"
+    },
     "countryShortCode": "BJ",
     "regions": [
       {
@@ -1768,7 +1840,10 @@ return [
     ]
   },
   {
-    "countryName": "Bermuda",
+    "countryName": {
+      "en": "Bermuda",
+      "es": "Bermudas"
+    },
     "countryShortCode": "BM",
     "regions": [
       {
@@ -1818,7 +1893,10 @@ return [
     ]
   },
   {
-    "countryName": "Bhutan",
+    "countryName": {
+      "en": "Bhutan",
+      "es": "Bhután"
+    },
     "countryShortCode": "BT",
     "regions": [
       {
@@ -1904,7 +1982,10 @@ return [
     ]
   },
   {
-    "countryName": "Bolivia",
+    "countryName": {
+      "en": "Bolivia",
+      "es": "Bolivia"
+    },
     "countryShortCode": "BO",
     "regions": [
       {
@@ -1946,7 +2027,10 @@ return [
     ]
   },
   {
-    "countryName": "Bonaire, Sint Eustatius and Saba",
+    "countryName": {
+      "en": "Bonaire, Sint Eustatius and Saba",
+      "es": "Bonaire, San Eustaquio y Saba"
+    },
     "countryShortCode": "BQ",
     "regions": [
       {
@@ -1964,7 +2048,10 @@ return [
     ]
   },
   {
-    "countryName": "Bosnia and Herzegovina",
+    "countryName": {
+      "en": "Bosnia and Herzegovina",
+      "es": "Bosnia y Herzegovina"
+    },
     "countryShortCode": "BA",
     "regions": [
       {
@@ -1982,7 +2069,10 @@ return [
     ]
   },
   {
-    "countryName": "Botswana",
+    "countryName": {
+      "en": "Botswana",
+      "es": "Botsuana"
+    },
     "countryShortCode": "BW",
     "regions": [
       {
@@ -2024,7 +2114,10 @@ return [
     ]
   },
   {
-    "countryName": "Bouvet Island",
+    "countryName": {
+      "en": "Bouvet Island",
+      "es": "Bouvet, Isla"
+    },
     "countryShortCode": "BV",
     "regions": [
       {
@@ -2034,7 +2127,10 @@ return [
     ]
   },
   {
-    "countryName": "Brazil",
+    "countryName": {
+      "en": "Brazil",
+      "es": "Brasil"
+    },
     "countryShortCode": "BR",
     "regions": [
       {
@@ -2148,7 +2244,10 @@ return [
     ]
   },
   {
-    "countryName": "British Indian Ocean Territory",
+    "countryName": {
+      "en": "British Indian Ocean Territory",
+      "es": "Territorio Británico del Océano Índico"
+    },
     "countryShortCode": "IO",
     "regions": [
       {
@@ -2158,7 +2257,10 @@ return [
     ]
   },
   {
-    "countryName": "Brunei Darussalam",
+    "countryName": {
+      "en": "Brunei Darussalam",
+      "es": "Brunéi Darussalam"
+    },
     "countryShortCode": "BN",
     "regions": [
       {
@@ -2180,7 +2282,10 @@ return [
     ]
   },
   {
-    "countryName": "Bulgaria",
+    "countryName": {
+      "en": "Bulgaria",
+      "es": "Bulgaria"
+    },
     "countryShortCode": "BG",
     "regions": [
       {
@@ -2298,7 +2403,10 @@ return [
     ]
   },
   {
-    "countryName": "Burkina Faso",
+    "countryName": {
+      "en": "Burkina Faso",
+      "es": "Burkina Faso"
+    },
     "countryShortCode": "BF",
     "regions": [
       {
@@ -2484,7 +2592,10 @@ return [
     ]
   },
   {
-    "countryName": "Burundi",
+    "countryName": {
+      "en": "Burundi",
+      "es": "Burundi"
+    },
     "countryShortCode": "BI",
     "regions": [
       {
@@ -2558,7 +2669,10 @@ return [
     ]
   },
   {
-    "countryName": "Cambodia",
+    "countryName": {
+      "en": "Cambodia",
+      "es": "Camboya"
+    },
     "countryShortCode": "KH",
     "regions": [
       {
@@ -2664,7 +2778,10 @@ return [
     ]
   },
   {
-    "countryName": "Cameroon",
+    "countryName": {
+      "en": "Cameroon",
+      "es": "Camerún"
+    },
     "countryShortCode": "CM",
     "regions": [
       {
@@ -2710,7 +2827,10 @@ return [
     ]
   },
   {
-    "countryName": "Canada",
+    "countryName": {
+      "en": "Canada",
+      "es": "Canadá"
+    },
     "countryShortCode": "CA",
     "regions": [
       {
@@ -2768,7 +2888,10 @@ return [
     ]
   },
   {
-    "countryName": "Cape Verde",
+    "countryName": {
+      "en": "Cape Verde",
+      "es": "Cabo Verde"
+    },
     "countryShortCode": "CV",
     "regions": [
       {
@@ -2850,7 +2973,10 @@ return [
     ]
   },
   {
-    "countryName": "Cayman Islands",
+    "countryName": {
+      "en": "Cayman Islands",
+      "es": "Caimán, Islas"
+    },
     "countryShortCode": "KY",
     "regions": [
       {
@@ -2880,7 +3006,10 @@ return [
     ]
   },
   {
-    "countryName": "Central African Republic",
+    "countryName": {
+      "en": "Central African Republic",
+      "es": "República Centroafricana"
+    },
     "countryShortCode": "CF",
     "regions": [
       {
@@ -2954,7 +3083,10 @@ return [
     ]
   },
   {
-    "countryName": "Chad",
+    "countryName": {
+      "en": "Chad",
+      "es": "Chad"
+    },
     "countryShortCode": "TD",
     "regions": [
       {
@@ -3048,7 +3180,10 @@ return [
     ]
   },
   {
-    "countryName": "Chile",
+    "countryName": {
+      "en": "Chile",
+      "es": "Chile"
+    },
     "countryShortCode": "CL",
     "regions": [
       {
@@ -3122,7 +3257,10 @@ return [
     ]
   },
   {
-    "countryName": "China",
+    "countryName": {
+      "en": "China",
+      "es": "China"
+    },
     "countryShortCode": "CN",
     "regions": [
       {
@@ -3260,7 +3398,10 @@ return [
     ]
   },
   {
-    "countryName": "Christmas Island",
+    "countryName": {
+      "en": "Christmas Island",
+      "es": "Navidad, Isla de"
+    },
     "countryShortCode": "CX",
     "regions": [
       {
@@ -3270,7 +3411,10 @@ return [
     ]
   },
   {
-    "countryName": "Cocos (Keeling) Islands",
+    "countryName": {
+      "en": "Cocos (Keeling) Islands",
+      "es": "Cocos (Keeling), Islas"
+    },
     "countryShortCode": "CC",
     "regions": [
       {
@@ -3300,7 +3444,10 @@ return [
     ]
   },
   {
-    "countryName": "Colombia",
+    "countryName": {
+      "en": "Colombia",
+      "es": "Colombia"
+    },
     "countryShortCode": "CO",
     "regions": [
       {
@@ -3438,7 +3585,10 @@ return [
     ]
   },
   {
-    "countryName": "Comoros",
+    "countryName": {
+      "en": "Comoros",
+      "es": "Comoras"
+    },
     "countryShortCode": "KM",
     "regions": [
       {
@@ -3456,7 +3606,10 @@ return [
     ]
   },
   {
-    "countryName": "Congo, Republic of the (Brazzaville)",
+    "countryName": {
+      "en": "Congo, Republic of the (Brazzaville)",
+      "es": "Congo, República del"
+    },
     "countryShortCode": "CG",
     "regions": [
       {
@@ -3510,7 +3663,10 @@ return [
     ]
   },
   {
-    "countryName": "Congo, the Democratic Republic of the (Kinshasa)",
+    "countryName": {
+      "en": "Congo, the Democratic Republic of the (Kinshasa)",
+      "es": "Congo, la República Democrática del"
+    },
     "countryShortCode": "CD",
     "regions": [
       {
@@ -3560,7 +3716,10 @@ return [
     ]
   },
   {
-    "countryName": "Cook Islands",
+    "countryName": {
+      "en": "Cook Islands",
+      "es": "Cook, Islas"
+    },
     "countryShortCode": "CK",
     "regions": [
       {
@@ -3602,7 +3761,10 @@ return [
     ]
   },
   {
-    "countryName": "Costa Rica",
+    "countryName": {
+      "en": "Costa Rica",
+      "es": "Costa Rica"
+    },
     "countryShortCode": "CR",
     "regions": [
       {
@@ -3636,7 +3798,10 @@ return [
     ]
   },
   {
-    "countryName": "Côte d'Ivoire, Republic of",
+    "countryName": {
+      "en": "Côte d'Ivoire, Republic of",
+      "es": "Côte d'Ivoire"
+    },
     "countryShortCode": "CI",
     "regions": [
       {
@@ -3718,7 +3883,10 @@ return [
     ]
   },
   {
-    "countryName": "Croatia",
+    "countryName": {
+      "en": "Croatia",
+      "es": "Croacia"
+    },
     "countryShortCode": "HR",
     "regions": [
       {
@@ -3808,7 +3976,10 @@ return [
     ]
   },
   {
-    "countryName": "Cuba",
+    "countryName": {
+      "en": "Cuba",
+      "es": "Cuba"
+    },
     "countryShortCode": "CU",
     "regions": [
       {
@@ -3878,7 +4049,10 @@ return [
     ]
   },
   {
-    "countryName": "Curaçao",
+    "countryName": {
+      "en": "Curaçao",
+      "es": "Curaçao"
+    },
     "countryShortCode": "CW",
     "regions": [
       {
@@ -3888,7 +4062,10 @@ return [
     ]
   },
   {
-    "countryName": "Cyprus",
+    "countryName": {
+      "en": "Cyprus",
+      "es": "Chipre"
+    },
     "countryShortCode": "CY",
     "regions": [
       {
@@ -3918,7 +4095,10 @@ return [
     ]
   },
   {
-    "countryName": "Czech Republic",
+    "countryName": {
+      "en": "Czech Republic",
+      "es": "Chequia"
+    },
     "countryShortCode": "CZ",
     "regions": [
       {
@@ -3980,7 +4160,10 @@ return [
     ]
   },
   {
-    "countryName": "Denmark",
+    "countryName": {
+      "en": "Denmark",
+      "es": "Dinamarca"
+    },
     "countryShortCode": "DK",
     "regions": [
       {
@@ -4046,7 +4229,10 @@ return [
     ]
   },
   {
-    "countryName": "Djibouti",
+    "countryName": {
+      "en": "Djibouti",
+      "es": "Yibuti"
+    },
     "countryShortCode": "DJ",
     "regions": [
       {
@@ -4072,7 +4258,10 @@ return [
     ]
   },
   {
-    "countryName": "Dominica",
+    "countryName": {
+      "en": "Dominica",
+      "es": "Dominica"
+    },
     "countryShortCode": "DM",
     "regions": [
       {
@@ -4118,7 +4307,10 @@ return [
     ]
   },
   {
-    "countryName": "Dominican Republic",
+    "countryName": {
+      "en": "Dominican Republic",
+      "es": "Dominicana, República"
+    },
     "countryShortCode": "DO",
     "regions": [
       {
@@ -4160,7 +4352,10 @@ return [
     ]
   },
   {
-    "countryName": "Ecuador",
+    "countryName": {
+      "en": "Ecuador",
+      "es": "Ecuador"
+    },
     "countryShortCode": "EC",
     "regions": [
       {
@@ -4262,7 +4457,10 @@ return [
     ]
   },
   {
-    "countryName": "Egypt",
+    "countryName": {
+      "en": "Egypt",
+      "es": "Egipto"
+    },
     "countryShortCode": "EG",
     "regions": [
       {
@@ -4384,7 +4582,10 @@ return [
     ]
   },
   {
-    "countryName": "El Salvador",
+    "countryName": {
+      "en": "El Salvador",
+      "es": "El Salvador"
+    },
     "countryShortCode": "SV",
     "regions": [
       {
@@ -4446,7 +4647,10 @@ return [
     ]
   },
   {
-    "countryName": "Equatorial Guinea",
+    "countryName": {
+      "en": "Equatorial Guinea",
+      "es": "Guinea Ecuatorial"
+    },
     "countryShortCode": "GQ",
     "regions": [
       {
@@ -4480,7 +4684,10 @@ return [
     ]
   },
   {
-    "countryName": "Eritrea",
+    "countryName": {
+      "en": "Eritrea",
+      "es": "Eritrea"
+    },
     "countryShortCode": "ER",
     "regions": [
       {
@@ -4510,7 +4717,10 @@ return [
     ]
   },
   {
-    "countryName": "Estonia",
+    "countryName": {
+      "en": "Estonia",
+      "es": "Estonia"
+    },
     "countryShortCode": "EE",
     "regions": [
       {
@@ -4576,7 +4786,10 @@ return [
     ]
   },
   {
-    "countryName": "Ethiopia",
+    "countryName": {
+      "en": "Ethiopia",
+      "es": "Etiopía"
+    },
     "countryShortCode": "ET",
     "regions": [
       {
@@ -4626,7 +4839,10 @@ return [
     ]
   },
   {
-    "countryName": "Falkland Islands (Islas Malvinas)",
+    "countryName": {
+      "en": "Falkland Islands (Islas Malvinas)",
+      "es": "Malvinas, Islas (Falkland)"
+    },
     "countryShortCode": "FK",
     "regions": [
       {
@@ -4635,7 +4851,10 @@ return [
     ]
   },
   {
-    "countryName": "Faroe Islands",
+    "countryName": {
+      "en": "Faroe Islands",
+      "es": "Feroe, Islas"
+    },
     "countryShortCode": "FO",
     "regions": [
       {
@@ -4668,7 +4887,10 @@ return [
     ]
   },
   {
-    "countryName": "Fiji",
+    "countryName": {
+      "en": "Fiji",
+      "es": "Fiji"
+    },
     "countryShortCode": "FJ",
     "regions": [
       {
@@ -4734,7 +4956,10 @@ return [
     ]
   },
   {
-    "countryName": "Finland",
+    "countryName": {
+      "en": "Finland",
+      "es": "Finlandia"
+    },
     "countryShortCode": "FI",
     "regions": [
       {
@@ -4816,7 +5041,10 @@ return [
     ]
   },
   {
-    "countryName": "France",
+    "countryName": {
+      "en": "France",
+      "es": "Francia"
+    },
     "countryShortCode": "FR",
     "regions": [
       {
@@ -4926,7 +5154,10 @@ return [
     ]
   },
   {
-    "countryName": "French Guiana",
+    "countryName": {
+      "en": "French Guiana",
+      "es": "Guayana Francesa"
+    },
     "countryShortCode": "GF",
     "regions": [
       {
@@ -4935,7 +5166,10 @@ return [
     ]
   },
   {
-    "countryName": "French Polynesia",
+    "countryName": {
+      "en": "French Polynesia",
+      "es": "Polinesia Francesa"
+    },
     "countryShortCode": "PF",
     "regions": [
       {
@@ -4956,7 +5190,10 @@ return [
     ]
   },
   {
-    "countryName": "French Southern and Antarctic Lands",
+    "countryName": {
+      "en": "French Southern and Antarctic Lands",
+      "es": "Tierras Australes Francesas"
+    },
     "countryShortCode": "TF",
     "regions": [
       {
@@ -4974,7 +5211,10 @@ return [
     ]
   },
   {
-    "countryName": "Gabon",
+    "countryName": {
+      "en": "Gabon",
+      "es": "Gabón"
+    },
     "countryShortCode": "GA",
     "regions": [
       {
@@ -5016,7 +5256,10 @@ return [
     ]
   },
   {
-    "countryName": "Gambia, The",
+    "countryName": {
+      "en": "Gambia, The",
+      "es": "Gambia, La"
+    },
     "countryShortCode": "GM",
     "regions": [
       {
@@ -5046,7 +5289,10 @@ return [
     ]
   },
   {
-    "countryName": "Georgia",
+    "countryName": {
+      "en": "Georgia",
+      "es": "Georgia"
+    },
     "countryShortCode": "GE",
     "regions": [
       {
@@ -5100,7 +5346,10 @@ return [
     ]
   },
   {
-    "countryName": "Germany",
+    "countryName": {
+      "en": "Germany",
+      "es": "Alemania"
+    },
     "countryShortCode": "DE",
     "regions": [
       {
@@ -5170,7 +5419,10 @@ return [
     ]
   },
   {
-    "countryName": "Ghana",
+    "countryName": {
+      "en": "Ghana",
+      "es": "Ghana"
+    },
     "countryShortCode": "GH",
     "regions": [
       {
@@ -5233,7 +5485,10 @@ return [
     ]
   },
   {
-    "countryName": "Gibraltar",
+    "countryName": {
+      "en": "Gibraltar",
+      "es": "Gibraltar"
+    },
     "countryShortCode": "GI",
     "regions": [
       {
@@ -5242,7 +5497,10 @@ return [
     ]
   },
   {
-    "countryName": "Greece",
+    "countryName": {
+      "en": "Greece",
+      "es": "Grecia"
+    },
     "countryShortCode": "GR",
     "regions": [
       {
@@ -5304,7 +5562,10 @@ return [
     ]
   },
   {
-    "countryName": "Greenland",
+    "countryName": {
+      "en": "Greenland",
+      "es": "Groenlandia"
+    },
     "countryShortCode": "GL",
     "regions": [
       {
@@ -5326,7 +5587,10 @@ return [
     ]
   },
   {
-    "countryName": "Grenada",
+    "countryName": {
+      "en": "Grenada",
+      "es": "Granada"
+    },
     "countryShortCode": "GD",
     "regions": [
       {
@@ -5360,7 +5624,10 @@ return [
     ]
   },
   {
-    "countryName": "Guadeloupe",
+    "countryName": {
+      "en": "Guadeloupe",
+      "es": "Guadeloupe"
+    },
     "countryShortCode": "GP",
     "regions": [
       {
@@ -5369,7 +5636,10 @@ return [
     ]
   },
   {
-    "countryName": "Guam",
+    "countryName": {
+      "en": "Guam",
+      "es": "Guam"
+    },
     "countryShortCode": "GU",
     "regions": [
       {
@@ -5378,7 +5648,10 @@ return [
     ]
   },
   {
-    "countryName": "Guatemala",
+    "countryName": {
+      "en": "Guatemala",
+      "es": "Guatemala"
+    },
     "countryShortCode": "GT",
     "regions": [
       {
@@ -5472,7 +5745,10 @@ return [
     ]
   },
   {
-    "countryName": "Guernsey",
+    "countryName": {
+      "en": "Guernsey",
+      "es": "Guernsey"
+    },
     "countryShortCode": "GG",
     "regions": [
       {
@@ -5508,7 +5784,10 @@ return [
     ]
   },
   {
-    "countryName": "Guinea",
+    "countryName": {
+      "en": "Guinea",
+      "es": "Guinea"
+    },
     "countryShortCode": "GN",
     "regions": [
       {
@@ -5546,7 +5825,10 @@ return [
     ]
   },
   {
-    "countryName": "Guinea-Bissau",
+    "countryName": {
+      "en": "Guinea-Bissau",
+      "es": "Guinea Bissau"
+    },
     "countryShortCode": "GW",
     "regions": [
       {
@@ -5588,7 +5870,10 @@ return [
     ]
   },
   {
-    "countryName": "Guyana",
+    "countryName": {
+      "en": "Guyana",
+      "es": "Guyana"
+    },
     "countryShortCode": "GY",
     "regions": [
       {
@@ -5634,7 +5919,10 @@ return [
     ]
   },
   {
-    "countryName": "Haiti",
+    "countryName": {
+      "en": "Haiti",
+      "es": "Haití"
+    },
     "countryShortCode": "HT",
     "regions": [
       {
@@ -5680,7 +5968,10 @@ return [
     ]
   },
   {
-    "countryName": "Heard Island and McDonald Islands",
+    "countryName": {
+      "en": "Heard Island and McDonald Islands",
+      "es": "Heard (Isla) e Islas McDonald"
+    },
     "countryShortCode": "HM",
     "regions": [
       {
@@ -5689,7 +5980,10 @@ return [
     ]
   },
   {
-    "countryName": "Holy See (Vatican City)",
+    "countryName": {
+      "en": "Holy See (Vatican City)",
+      "es": "Santa Sede (Ciudad del Vaticano)"
+    },
     "countryShortCode": "VA",
     "regions": [
       {
@@ -5699,7 +5993,10 @@ return [
     ]
   },
   {
-    "countryName": "Honduras",
+    "countryName": {
+      "en": "Honduras",
+      "es": "Honduras"
+    },
     "countryShortCode": "HN",
     "regions": [
       {
@@ -5777,7 +6074,10 @@ return [
     ]
   },
   {
-    "countryName": "Hong Kong",
+    "countryName": {
+      "en": "Hong Kong",
+      "es": "Hong Kong"
+    },
     "countryShortCode": "HK",
     "regions": [
       {
@@ -5787,7 +6087,10 @@ return [
     ]
   },
   {
-    "countryName": "Hungary",
+    "countryName": {
+      "en": "Hungary",
+      "es": "Hungría"
+    },
     "countryShortCode": "HU",
     "regions": [
       {
@@ -5965,7 +6268,10 @@ return [
     ]
   },
   {
-    "countryName": "Iceland",
+    "countryName": {
+      "en": "Iceland",
+      "es": "Islandia"
+    },
     "countryShortCode": "IS",
     "regions": [
       {
@@ -6003,7 +6309,10 @@ return [
     ]
   },
   {
-    "countryName": "India",
+    "countryName": {
+      "en": "India",
+      "es": "India"
+    },
     "countryShortCode": "IN",
     "regions": [
       {
@@ -6153,7 +6462,10 @@ return [
     ]
   },
   {
-    "countryName": "Indonesia",
+    "countryName": {
+      "en": "Indonesia",
+      "es": "Indonesia"
+    },
     "countryShortCode": "ID",
     "regions": [
       {
@@ -6291,7 +6603,10 @@ return [
     ]
   },
   {
-    "countryName": "Iran, Islamic Republic of",
+    "countryName": {
+      "en": "Iran, Islamic Republic of",
+      "es": "Irán, República Islámica de"
+    },
     "countryShortCode": "IR",
     "regions": [
       {
@@ -6421,7 +6736,10 @@ return [
     ]
   },
   {
-    "countryName": "Iraq",
+    "countryName": {
+      "en": "Iraq",
+      "es": "Iraq"
+    },
     "countryShortCode": "IQ",
     "regions": [
       {
@@ -6499,7 +6817,10 @@ return [
     ]
   },
   {
-    "countryName": "Ireland",
+    "countryName": {
+      "en": "Ireland",
+      "es": "Irlanda"
+    },
     "countryShortCode": "IE",
     "regions": [
       {
@@ -6609,7 +6930,10 @@ return [
     ]
   },
   {
-    "countryName": "Isle of Man",
+    "countryName": {
+      "en": "Isle of Man",
+      "es": "Isla de Man"
+    },
     "countryShortCode": "IM",
     "regions": [
       {
@@ -6618,7 +6942,10 @@ return [
     ]
   },
   {
-    "countryName": "Israel",
+    "countryName": {
+      "en": "Israel",
+      "es": "Israel"
+    },
     "countryShortCode": "IL",
     "regions": [
       {
@@ -6648,7 +6975,10 @@ return [
     ]
   },
   {
-    "countryName": "Italy",
+    "countryName": {
+      "en": "Italy",
+      "es": "Italia"
+    },
     "countryShortCode": "IT",
     "regions": [
       {
@@ -6734,7 +7064,10 @@ return [
     ]
   },
   {
-    "countryName": "Jamaica",
+    "countryName": {
+      "en": "Jamaica",
+      "es": "Jamaica"
+    },
     "countryShortCode": "JM",
     "regions": [
       {
@@ -6796,7 +7129,10 @@ return [
     ]
   },
   {
-    "countryName": "Japan",
+    "countryName": {
+      "en": "Japan",
+      "es": "Japón"
+    },
     "countryShortCode": "JP",
     "regions": [
       {
@@ -6990,7 +7326,10 @@ return [
     ]
   },
   {
-    "countryName": "Jersey",
+    "countryName": {
+      "en": "Jersey",
+      "es": "Jersey"
+    },
     "countryShortCode": "JE",
     "regions": [
       {
@@ -6999,7 +7338,10 @@ return [
     ]
   },
   {
-    "countryName": "Jordan",
+    "countryName": {
+      "en": "Jordan",
+      "es": "Jordania"
+    },
     "countryShortCode": "JO",
     "regions": [
       {
@@ -7053,7 +7395,10 @@ return [
     ]
   },
   {
-    "countryName": "Kazakhstan",
+    "countryName": {
+      "en": "Kazakhstan",
+      "es": "Kazajistán"
+    },
     "countryShortCode": "KZ",
     "regions": [
       {
@@ -7122,7 +7467,10 @@ return [
     ]
   },
   {
-    "countryName": "Kenya",
+    "countryName": {
+      "en": "Kenya",
+      "es": "Kenia"
+    },
     "countryShortCode": "KE",
     "regions": [
       {
@@ -7316,7 +7664,10 @@ return [
     ]
   },
   {
-    "countryName": "Kiribati",
+    "countryName": {
+      "en": "Kiribati",
+      "es": "Kiribati"
+    },
     "countryShortCode": "KI",
     "regions": [
       {
@@ -7406,7 +7757,10 @@ return [
     ]
   },
   {
-    "countryName": "Korea, Democratic People's Republic of",
+    "countryName": {
+      "en": "Korea, Democratic People's Republic of",
+      "es": "Corea, República Popular Democrática de"
+    },
     "countryShortCode": "KP",
     "regions": [
       {
@@ -7456,7 +7810,10 @@ return [
     ]
   },
   {
-    "countryName": "Korea, Republic of",
+    "countryName": {
+      "en": "Korea, Republic of",
+      "es": "Corea, República de"
+    },
     "countryShortCode": "KR",
     "regions": [
       {
@@ -7530,7 +7887,10 @@ return [
     ]
   },
   {
-    "countryName": "Kosovo",
+    "countryName": {
+      "en": "Kosovo",
+      "es": "Kosovo"
+    },
     "countryShortCode": "XK",
     "regions": [
       {
@@ -7564,7 +7924,10 @@ return [
     ]
   },
   {
-    "countryName": "Kuwait",
+    "countryName": {
+      "en": "Kuwait",
+      "es": "Kuwait"
+    },
     "countryShortCode": "KW",
     "regions": [
       {
@@ -7594,7 +7957,10 @@ return [
     ]
   },
   {
-    "countryName": "Kyrgyzstan",
+    "countryName": {
+      "en": "Kyrgyzstan",
+      "es": "Kirguistán"
+    },
     "countryShortCode": "KG",
     "regions": [
       {
@@ -7632,7 +7998,10 @@ return [
     ]
   },
   {
-    "countryName": "Laos",
+    "countryName": {
+      "en": "Laos",
+      "es": "Lao"
+    },
     "countryShortCode": "LA",
     "regions": [
       {
@@ -7706,7 +8075,10 @@ return [
     ]
   },
   {
-    "countryName": "Latvia",
+    "countryName": {
+      "en": "Latvia",
+      "es": "Letonia"
+    },
     "countryShortCode": "LV",
     "regions": [
       {
@@ -8188,7 +8560,10 @@ return [
     ]
   },
   {
-    "countryName": "Lebanon",
+    "countryName": {
+      "en": "Lebanon",
+      "es": "Líbano"
+    },
     "countryShortCode": "LB",
     "regions": [
       {
@@ -8226,7 +8601,10 @@ return [
     ]
   },
   {
-    "countryName": "Lesotho",
+    "countryName": {
+      "en": "Lesotho",
+      "es": "Lesotho"
+    },
     "countryShortCode": "LS",
     "regions": [
       {
@@ -8272,7 +8650,10 @@ return [
     ]
   },
   {
-    "countryName": "Liberia",
+    "countryName": {
+      "en": "Liberia",
+      "es": "Liberia"
+    },
     "countryShortCode": "LR",
     "regions": [
       {
@@ -8338,7 +8719,10 @@ return [
     ]
   },
   {
-    "countryName": "Libya",
+    "countryName": {
+      "en": "Libya",
+      "es": "Libia"
+    },
     "countryShortCode": "LY",
     "regions": [
       {
@@ -8432,7 +8816,10 @@ return [
     ]
   },
   {
-    "countryName": "Liechtenstein",
+    "countryName": {
+      "en": "Liechtenstein",
+      "es": "Liechtenstein"
+    },
     "countryShortCode": "LI",
     "regions": [
       {
@@ -8482,7 +8869,10 @@ return [
     ]
   },
   {
-    "countryName": "Lithuania",
+    "countryName": {
+      "en": "Lithuania",
+      "es": "Lituania"
+    },
     "countryShortCode": "LT",
     "regions": [
       {
@@ -8528,7 +8918,10 @@ return [
     ]
   },
   {
-    "countryName": "Luxembourg",
+    "countryName": {
+      "en": "Luxembourg",
+      "es": "Luxemburgo"
+    },
     "countryShortCode": "LU",
     "regions": [
       {
@@ -8582,7 +8975,10 @@ return [
     ]
   },
   {
-    "countryName": "Macao",
+    "countryName": {
+      "en": "Macao",
+      "es": "Macao"
+    },
     "countryShortCode": "MO",
     "regions": [
       {
@@ -8591,7 +8987,10 @@ return [
     ]
   },
   {
-    "countryName": "Macedonia, Republic of",
+    "countryName": {
+      "en": "Macedonia, Republic of",
+      "es": "Macedonia del Norte"
+    },
     "countryShortCode": "MK",
     "regions": [
       {
@@ -8881,7 +9280,10 @@ return [
     ]
   },
   {
-    "countryName": "Madagascar",
+    "countryName": {
+      "en": "Madagascar",
+      "es": "Madagascar"
+    },
     "countryShortCode": "MG",
     "regions": [
       {
@@ -8911,7 +9313,10 @@ return [
     ]
   },
   {
-    "countryName": "Malawi",
+    "countryName": {
+      "en": "Malawi",
+      "es": "Malawi"
+    },
     "countryShortCode": "MW",
     "regions": [
       {
@@ -9025,7 +9430,10 @@ return [
     ]
   },
   {
-    "countryName": "Malaysia",
+    "countryName": {
+      "en": "Malaysia",
+      "es": "Malasia"
+    },
     "countryShortCode": "MY",
     "regions": [
       {
@@ -9095,7 +9503,10 @@ return [
     ]
   },
   {
-    "countryName": "Maldives",
+    "countryName": {
+      "en": "Maldives",
+      "es": "Maldivas"
+    },
     "countryShortCode": "MV",
     "regions": [
       {
@@ -9185,7 +9596,10 @@ return [
     ]
   },
   {
-    "countryName": "Mali",
+    "countryName": {
+      "en": "Mali",
+      "es": "Malí"
+    },
     "countryShortCode": "ML",
     "regions": [
       {
@@ -9235,7 +9649,10 @@ return [
     ]
   },
   {
-    "countryName": "Malta",
+    "countryName": {
+      "en": "Malta",
+      "es": "Malta"
+    },
     "countryShortCode": "MT",
     "regions": [
       {
@@ -9513,7 +9930,10 @@ return [
     ]
   },
   {
-    "countryName": "Marshall Islands",
+    "countryName": {
+      "en": "Marshall Islands",
+      "es": "Marshall, Islas"
+    },
     "countryShortCode": "MH",
     "regions": [
       {
@@ -9607,7 +10027,10 @@ return [
     ]
   },
   {
-    "countryName": "Martinique",
+    "countryName": {
+      "en": "Martinique",
+      "es": "Martinique"
+    },
     "countryShortCode": "MQ",
     "regions": [
       {
@@ -9616,7 +10039,10 @@ return [
     ]
   },
   {
-    "countryName": "Mauritania",
+    "countryName": {
+      "en": "Mauritania",
+      "es": "Mauritania"
+    },
     "countryShortCode": "MR",
     "regions": [
       {
@@ -9682,7 +10108,10 @@ return [
     ]
   },
   {
-    "countryName": "Mauritius",
+    "countryName": {
+      "en": "Mauritius",
+      "es": "Mauricio"
+    },
     "countryShortCode": "MU",
     "regions": [
       {
@@ -9752,7 +10181,10 @@ return [
     ]
   },
   {
-    "countryName": "Mayotte",
+    "countryName": {
+      "en": "Mayotte",
+      "es": "Mayotte"
+    },
     "countryShortCode": "YT",
     "regions": [
       {
@@ -9826,7 +10258,10 @@ return [
     ]
   },
   {
-    "countryName": "Mexico",
+    "countryName": {
+      "en": "Mexico",
+      "es": "México"
+    },
     "countryShortCode": "MX",
     "regions": [
       {
@@ -9960,7 +10395,10 @@ return [
     ]
   },
   {
-    "countryName": "Micronesia, Federated States of",
+    "countryName": {
+      "en": "Micronesia, Federated States of",
+      "es": "Micronesia, Estados Federados de"
+    },
     "countryShortCode": "FM",
     "regions": [
       {
@@ -9982,7 +10420,10 @@ return [
     ]
   },
   {
-    "countryName": "Moldova",
+    "countryName": {
+      "en": "Moldova",
+      "es": "Moldova, República de"
+    },
     "countryShortCode": "MD",
     "regions": [
       {
@@ -10136,7 +10577,10 @@ return [
     ]
   },
   {
-    "countryName": "Monaco",
+    "countryName": {
+      "en": "Monaco",
+      "es": "Mónaco"
+    },
     "countryShortCode": "MC",
     "regions": [
       {
@@ -10210,7 +10654,10 @@ return [
     ]
   },
   {
-    "countryName": "Mongolia",
+    "countryName": {
+      "en": "Mongolia",
+      "es": "Mongolia"
+    },
     "countryShortCode": "MN",
     "regions": [
       {
@@ -10296,7 +10743,10 @@ return [
     ]
   },
   {
-    "countryName": "Montenegro",
+    "countryName": {
+      "en": "Montenegro",
+      "es": "Montenegro"
+    },
     "countryShortCode": "ME",
     "regions": [
       {
@@ -10394,7 +10844,10 @@ return [
     ]
   },
   {
-    "countryName": "Montserrat",
+    "countryName": {
+      "en": "Montserrat",
+      "es": "Montserrat"
+    },
     "countryShortCode": "MS",
     "regions": [
       {
@@ -10409,7 +10862,10 @@ return [
     ]
   },
   {
-    "countryName": "Morocco",
+    "countryName": {
+      "en": "Morocco",
+      "es": "Marruecos"
+    },
     "countryShortCode": "MA",
     "regions": [
       {
@@ -10463,7 +10919,10 @@ return [
     ]
   },
   {
-    "countryName": "Mozambique",
+    "countryName": {
+      "en": "Mozambique",
+      "es": "Mozambique"
+    },
     "countryShortCode": "MZ",
     "regions": [
       {
@@ -10513,7 +10972,10 @@ return [
     ]
   },
   {
-    "countryName": "Myanmar",
+    "countryName": {
+      "en": "Myanmar",
+      "es": "Myanmar"
+    },
     "countryShortCode": "MM",
     "regions": [
       {
@@ -10579,7 +11041,10 @@ return [
     ]
   },
   {
-    "countryName": "Namibia",
+    "countryName": {
+      "en": "Namibia",
+      "es": "Namibia"
+    },
     "countryShortCode": "NA",
     "regions": [
       {
@@ -10641,7 +11106,10 @@ return [
     ]
   },
   {
-    "countryName": "Nauru",
+    "countryName": {
+      "en": "Nauru",
+      "es": "Nauru"
+    },
     "countryShortCode": "NR",
     "regions": [
       {
@@ -10703,7 +11171,10 @@ return [
     ]
   },
   {
-    "countryName": "Nepal",
+    "countryName": {
+      "en": "Nepal",
+      "es": "Nepal"
+    },
     "countryShortCode": "NP",
     "regions": [
       {
@@ -10765,7 +11236,10 @@ return [
     ]
   },
   {
-    "countryName": "Netherlands",
+    "countryName": {
+      "en": "Netherlands",
+      "es": "Países Bajos"
+    },
     "countryShortCode": "NL",
     "regions": [
       {
@@ -10819,7 +11293,10 @@ return [
     ]
   },
   {
-    "countryName": "New Caledonia",
+    "countryName": {
+      "en": "New Caledonia",
+      "es": "Nueva Caledonia"
+    },
     "countryShortCode": "NC",
     "regions": [
       {
@@ -10834,7 +11311,10 @@ return [
     ]
   },
   {
-    "countryName": "New Zealand",
+    "countryName": {
+      "en": "New Zealand",
+      "es": "Nueva Zelandia"
+    },
     "countryShortCode": "NZ",
     "regions": [
       {
@@ -10908,7 +11388,10 @@ return [
     ]
   },
   {
-    "countryName": "Nicaragua",
+    "countryName": {
+      "en": "Nicaragua",
+      "es": "Nicaragua"
+    },
     "countryShortCode": "NI",
     "regions": [
       {
@@ -10982,7 +11465,10 @@ return [
     ]
   },
   {
-    "countryName": "Niger",
+    "countryName": {
+      "en": "Niger",
+      "es": "Níger"
+    },
     "countryShortCode": "NE",
     "regions": [
       {
@@ -11020,7 +11506,10 @@ return [
     ]
   },
   {
-    "countryName": "Nigeria",
+    "countryName": {
+      "en": "Nigeria",
+      "es": "Nigeria"
+    },
     "countryShortCode": "NG",
     "regions": [
       {
@@ -11174,7 +11663,10 @@ return [
     ]
   },
   {
-    "countryName": "Niue",
+    "countryName": {
+      "en": "Niue",
+      "es": "Niue"
+    },
     "countryShortCode": "NU",
     "regions": [
       {
@@ -11183,7 +11675,10 @@ return [
     ]
   },
   {
-    "countryName": "Norfolk Island",
+    "countryName": {
+      "en": "Norfolk Island",
+      "es": "Norfolk, Isla"
+    },
     "countryShortCode": "NF",
     "regions": [
       {
@@ -11192,7 +11687,10 @@ return [
     ]
   },
   {
-    "countryName": "Northern Mariana Islands",
+    "countryName": {
+      "en": "Northern Mariana Islands",
+      "es": "Marianas del Norte, Islas"
+    },
     "countryShortCode": "MP",
     "regions": [
       {
@@ -11210,7 +11708,10 @@ return [
     ]
   },
   {
-    "countryName": "Norway",
+    "countryName": {
+      "en": "Norway",
+      "es": "Noruega"
+    },
     "countryShortCode": "NO",
     "regions": [
       {
@@ -11300,7 +11801,10 @@ return [
     ]
   },
   {
-    "countryName": "Oman",
+    "countryName": {
+      "en": "Oman",
+      "es": "Omán"
+    },
     "countryShortCode": "OM",
     "regions": [
       {
@@ -11350,7 +11854,10 @@ return [
     ]
   },
   {
-    "countryName": "Pakistan",
+    "countryName": {
+      "en": "Pakistan",
+      "es": "Pakistán"
+    },
     "countryShortCode": "PK",
     "regions": [
       {
@@ -11388,7 +11895,10 @@ return [
     ]
   },
   {
-    "countryName": "Palau",
+    "countryName": {
+      "en": "Palau",
+      "es": "Palau"
+    },
     "countryShortCode": "PW",
     "regions": [
       {
@@ -11458,7 +11968,10 @@ return [
     ]
   },
   {
-    "countryName": "Palestine, State of",
+    "countryName": {
+      "en": "Palestine, State of",
+      "es": "Palestina, Estado de"
+    },
     "countryShortCode": "PS",
     "regions": [
       {
@@ -11528,7 +12041,10 @@ return [
     ]
   },
   {
-    "countryName": "Panama",
+    "countryName": {
+      "en": "Panama",
+      "es": "Panamá"
+    },
     "countryShortCode": "PA",
     "regions": [
       {
@@ -11586,7 +12102,10 @@ return [
     ]
   },
   {
-    "countryName": "Papua New Guinea",
+    "countryName": {
+      "en": "Papua New Guinea",
+      "es": "Papua Nueva Guinea"
+    },
     "countryShortCode": "PG",
     "regions": [
       {
@@ -11680,7 +12199,10 @@ return [
     ]
   },
   {
-    "countryName": "Paraguay",
+    "countryName": {
+      "en": "Paraguay",
+      "es": "Paraguay"
+    },
     "countryShortCode": "PY",
     "regions": [
       {
@@ -11758,7 +12280,10 @@ return [
     ]
   },
   {
-    "countryName": "Peru",
+    "countryName": {
+      "en": "Peru",
+      "es": "Perú"
+    },
     "countryShortCode": "PE",
     "regions": [
       {
@@ -11868,7 +12393,10 @@ return [
     ]
   },
   {
-    "countryName": "Philippines",
+    "countryName": {
+      "en": "Philippines",
+      "es": "Filipinas"
+    },
     "countryShortCode": "PH",
     "regions": [
       {
@@ -12194,7 +12722,10 @@ return [
     ]
   },
   {
-    "countryName": "Pitcairn",
+    "countryName": {
+      "en": "Pitcairn",
+      "es": "Pitcairn"
+    },
     "countryShortCode": "PN",
     "regions": [
       {
@@ -12203,7 +12734,10 @@ return [
     ]
   },
   {
-    "countryName": "Poland",
+    "countryName": {
+      "en": "Poland",
+      "es": "Polonia"
+    },
     "countryShortCode": "PL",
     "regions": [
       {
@@ -12273,7 +12807,10 @@ return [
     ]
   },
   {
-    "countryName": "Portugal",
+    "countryName": {
+      "en": "Portugal",
+      "es": "Portugal"
+    },
     "countryShortCode": "PT",
     "regions": [
       {
@@ -12359,7 +12896,10 @@ return [
     ]
   },
   {
-    "countryName": "Puerto Rico",
+    "countryName": {
+      "en": "Puerto Rico",
+      "es": "Puerto Rico"
+    },
     "countryShortCode": "PR",
     "regions": [
       {
@@ -12584,7 +13124,10 @@ return [
     ]
   },
   {
-    "countryName": "Qatar",
+    "countryName": {
+      "en": "Qatar",
+      "es": "Qatar"
+    },
     "countryShortCode": "QA",
     "regions": [
       {
@@ -12618,7 +13161,10 @@ return [
     ]
   },
   {
-    "countryName": "Réunion",
+    "countryName": {
+      "en": "Réunion",
+      "es": "Reunión"
+    },
     "countryShortCode": "RE",
     "regions": [
       {
@@ -12627,7 +13173,10 @@ return [
     ]
   },
   {
-    "countryName": "Romania",
+    "countryName": {
+      "en": "Romania",
+      "es": "Rumania"
+    },
     "countryShortCode": "RO",
     "regions": [
       {
@@ -12797,7 +13346,10 @@ return [
     ]
   },
   {
-    "countryName": "Russian Federation",
+    "countryName": {
+      "en": "Russian Federation",
+      "es": "Rusia, Federación de"
+    },
     "countryShortCode": "RU",
     "regions": [
       {
@@ -13135,7 +13687,10 @@ return [
     ]
   },
   {
-    "countryName": "Rwanda",
+    "countryName": {
+      "en": "Rwanda",
+      "es": "Ruanda"
+    },
     "countryShortCode": "RW",
     "regions": [
       {
@@ -13161,7 +13716,10 @@ return [
     ]
   },
   {
-    "countryName": "Saint Barthélemy",
+    "countryName": {
+      "en": "Saint Barthélemy",
+      "es": "Saint Barthélemy"
+    },
     "countryShortCode": "BL",
     "regions": [
       {
@@ -13175,7 +13733,10 @@ return [
     ]
   },
   {
-    "countryName": "Saint Helena, Ascension and Tristan da Cunha",
+    "countryName": {
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "es": "Santa Helena, Ascensión y Tristán de Acuña"
+    },
     "countryShortCode": "SH",
     "regions": [
       {
@@ -13193,7 +13754,10 @@ return [
     ]
   },
   {
-    "countryName": "Saint Kitts and Nevis",
+    "countryName": {
+      "en": "Saint Kitts and Nevis",
+      "es": "San Cristóbal y Nieves"
+    },
     "countryShortCode": "KN",
     "regions": [
       {
@@ -13207,7 +13771,10 @@ return [
     ]
   },
   {
-    "countryName": "Saint Lucia",
+    "countryName": {
+      "en": "Saint Lucia",
+      "es": "Santa Lucía"
+    },
     "countryShortCode": "LC",
     "regions": [
       {
@@ -13253,7 +13820,10 @@ return [
     ]
   },
   {
-    "countryName": "Saint Martin",
+    "countryName": {
+      "en": "Saint Martin",
+      "es": "Saint Martin"
+    },
     "countryShortCode": "MF",
     "regions": [
       {
@@ -13262,7 +13832,10 @@ return [
     ]
   },
   {
-    "countryName": "Saint Pierre and Miquelon",
+    "countryName": {
+      "en": "Saint Pierre and Miquelon",
+      "es": "San Pedro y Miquelón"
+    },
     "countryShortCode": "PM",
     "regions": [
       {
@@ -13274,7 +13847,10 @@ return [
     ]
   },
   {
-    "countryName": "Saint Vincent and the Grenadines",
+    "countryName": {
+      "en": "Saint Vincent and the Grenadines",
+      "es": "San Vicente y las Granadinas"
+    },
     "countryShortCode": "VC",
     "regions": [
       {
@@ -13304,7 +13880,10 @@ return [
     ]
   },
   {
-    "countryName": "Samoa",
+    "countryName": {
+      "en": "Samoa",
+      "es": "Samoa"
+    },
     "countryShortCode": "WS",
     "regions": [
       {
@@ -13354,7 +13933,10 @@ return [
     ]
   },
   {
-    "countryName": "San Marino",
+    "countryName": {
+      "en": "San Marino",
+      "es": "San Marino"
+    },
     "countryShortCode": "SM",
     "regions": [
       {
@@ -13396,7 +13978,10 @@ return [
     ]
   },
   {
-    "countryName": "Sao Tome and Principe",
+    "countryName": {
+      "en": "Sao Tome and Principe",
+      "es": "Santo Tomé y Príncipe"
+    },
     "countryShortCode": "ST",
     "regions": [
       {
@@ -13410,7 +13995,10 @@ return [
     ]
   },
   {
-    "countryName": "Saudi Arabia",
+    "countryName": {
+      "en": "Saudi Arabia",
+      "es": "Arabia Saudita"
+    },
     "countryShortCode": "SA",
     "regions": [
       {
@@ -13468,7 +14056,10 @@ return [
     ]
   },
   {
-    "countryName": "Senegal",
+    "countryName": {
+      "en": "Senegal",
+      "es": "Senegal"
+    },
     "countryShortCode": "SN",
     "regions": [
       {
@@ -13530,7 +14121,10 @@ return [
     ]
   },
   {
-    "countryName": "Serbia",
+    "countryName": {
+      "en": "Serbia",
+      "es": "Serbia"
+    },
     "countryShortCode": "RS",
     "regions": [
       {
@@ -13656,7 +14250,10 @@ return [
     ]
   },
   {
-    "countryName": "Seychelles",
+    "countryName": {
+      "en": "Seychelles",
+      "es": "Seychelles"
+    },
     "countryShortCode": "SC",
     "regions": [
       {
@@ -13762,7 +14359,10 @@ return [
     ]
   },
   {
-    "countryName": "Sierra Leone",
+    "countryName": {
+      "en": "Sierra Leone",
+      "es": "Sierra leona"
+    },
     "countryShortCode": "SL",
     "regions": [
       {
@@ -13784,7 +14384,10 @@ return [
     ]
   },
   {
-    "countryName": "Singapore",
+    "countryName": {
+      "en": "Singapore",
+      "es": "Singapur"
+    },
     "countryShortCode": "SG",
     "regions": [
       {
@@ -13810,7 +14413,10 @@ return [
     ]
   },
   {
-    "countryName": "Sint Maarten (Dutch part)",
+    "countryName": {
+      "en": "Sint Maarten (Dutch part)",
+      "es": "Sint Maarten (Parte Neerlandesa)"
+    },
     "countryShortCode": "SX",
     "regions": [
       {
@@ -13819,7 +14425,10 @@ return [
     ]
   },
   {
-    "countryName": "Slovakia",
+    "countryName": {
+      "en": "Slovakia",
+      "es": "Eslovaquia"
+    },
     "countryShortCode": "SK",
     "regions": [
       {
@@ -13857,7 +14466,10 @@ return [
     ]
   },
   {
-    "countryName": "Slovenia",
+    "countryName": {
+      "en": "Slovenia",
+      "es": "Eslovenia"
+    },
     "countryShortCode": "SI",
     "regions": [
       {
@@ -14687,7 +15299,10 @@ return [
     ]
   },
   {
-    "countryName": "Solomon Islands",
+    "countryName": {
+      "en": "Solomon Islands",
+      "es": "Salomón, Islas"
+    },
     "countryShortCode": "SB",
     "regions": [
       {
@@ -14733,7 +15348,10 @@ return [
     ]
   },
   {
-    "countryName": "Somalia",
+    "countryName": {
+      "en": "Somalia",
+      "es": "Somalia"
+    },
     "countryShortCode": "SO",
     "regions": [
       {
@@ -14811,7 +15429,10 @@ return [
     ]
   },
   {
-    "countryName": "South Africa",
+    "countryName": {
+      "en": "South Africa",
+      "es": "Sudáfrica"
+    },
     "countryShortCode": "ZA",
     "regions": [
       {
@@ -14853,7 +15474,10 @@ return [
     ]
   },
   {
-    "countryName": "South Georgia and South Sandwich Islands",
+    "countryName": {
+      "en": "South Georgia and South Sandwich Islands",
+      "es": "Georgia del Sur y las Islas Sandwich del Sur"
+    },
     "countryShortCode": "GS",
     "regions": [
       {
@@ -14883,7 +15507,10 @@ return [
     ]
   },
   {
-    "countryName": "South Sudan",
+    "countryName": {
+      "en": "South Sudan",
+      "es": "Sudán del Sur"
+    },
     "countryShortCode": "SS",
     "regions": [
       {
@@ -14929,7 +15556,10 @@ return [
     ]
   },
   {
-    "countryName": "Spain",
+    "countryName": {
+      "en": "Spain",
+      "es": "España"
+    },
     "countryShortCode": "ES",
     "regions": [
       {
@@ -15143,7 +15773,10 @@ return [
     ]
   },
   {
-    "countryName": "Sri Lanka",
+    "countryName": {
+      "en": "Sri Lanka",
+      "es": "Sri Lanka"
+    },
     "countryShortCode": "LK",
     "regions": [
       {
@@ -15185,7 +15818,10 @@ return [
     ]
   },
   {
-    "countryName": "Sudan",
+    "countryName": {
+      "en": "Sudan",
+      "es": "Sudán"
+    },
     "countryShortCode": "SD",
     "regions": [
       {
@@ -15263,7 +15899,10 @@ return [
     ]
   },
   {
-    "countryName": "Suriname",
+    "countryName": {
+      "en": "Suriname",
+      "es": "Suriname"
+    },
     "countryShortCode": "SR",
     "regions": [
       {
@@ -15309,7 +15948,10 @@ return [
     ]
   },
   {
-    "countryName": "Swaziland",
+    "countryName": {
+      "en": "Swaziland",
+      "es": "Suazilandia"
+    },
     "countryShortCode": "SZ",
     "regions": [
       {
@@ -15331,7 +15973,10 @@ return [
     ]
   },
   {
-    "countryName": "Sweden",
+    "countryName": {
+      "en": "Sweden",
+      "es": "Suecia"
+    },
     "countryShortCode": "SE",
     "regions": [
       {
@@ -15421,7 +16066,10 @@ return [
     ]
   },
   {
-    "countryName": "Switzerland",
+    "countryName": {
+      "en": "Switzerland",
+      "es": "Suiza"
+    },
     "countryShortCode": "CH",
     "regions": [
       {
@@ -15531,7 +16179,10 @@ return [
     ]
   },
   {
-    "countryName": "Syrian Arab Republic",
+    "countryName": {
+      "en": "Syrian Arab Republic",
+      "es": "República Árabe Siria"
+    },
     "countryShortCode": "SY",
     "regions": [
       {
@@ -15593,7 +16244,10 @@ return [
     ]
   },
   {
-    "countryName": "Taiwan",
+    "countryName": {
+      "en": "Taiwan",
+      "es": "Taiwán"
+    },
     "countryShortCode": "TW",
     "regions": [
       {
@@ -15679,7 +16333,10 @@ return [
     ]
   },
   {
-    "countryName": "Tajikistan",
+    "countryName": {
+      "en": "Tajikistan",
+      "es": "Tayikistán"
+    },
     "countryShortCode": "TJ",
     "regions": [
       {
@@ -15701,7 +16358,10 @@ return [
     ]
   },
   {
-    "countryName": "Tanzania, United Republic of",
+    "countryName": {
+      "en": "Tanzania, United Republic of",
+      "es": "Tanzania, República Unida de"
+    },
     "countryShortCode": "TZ",
     "regions": [
       {
@@ -15811,7 +16471,10 @@ return [
     ]
   },
   {
-    "countryName": "Thailand",
+    "countryName": {
+      "en": "Thailand",
+      "es": "Tailandia"
+    },
     "countryShortCode": "TH",
     "regions": [
       {
@@ -16125,7 +16788,10 @@ return [
     ]
   },
   {
-    "countryName": "Timor-Leste",
+    "countryName": {
+      "en": "Timor-Leste",
+      "es": "Timor-Leste"
+    },
     "countryShortCode": "TL",
     "regions": [
       {
@@ -16183,7 +16849,10 @@ return [
     ]
   },
   {
-    "countryName": "Togo",
+    "countryName": {
+      "en": "Togo",
+      "es": "Togo"
+    },
     "countryShortCode": "TG",
     "regions": [
       {
@@ -16209,7 +16878,10 @@ return [
     ]
   },
   {
-    "countryName": "Tokelau",
+    "countryName": {
+      "en": "Tokelau",
+      "es": "Tokelau"
+    },
     "countryShortCode": "TK",
     "regions": [
       {
@@ -16224,7 +16896,10 @@ return [
     ]
   },
   {
-    "countryName": "Tonga",
+    "countryName": {
+      "en": "Tonga",
+      "es": "Tonga"
+    },
     "countryShortCode": "TO",
     "regions": [
       {
@@ -16250,7 +16925,10 @@ return [
     ]
   },
   {
-    "countryName": "Trinidad and Tobago",
+    "countryName": {
+      "en": "Trinidad and Tobago",
+      "es": "Trinidad y Tobago"
+    },
     "countryShortCode": "TT",
     "regions": [
       {
@@ -16316,7 +16994,10 @@ return [
     ]
   },
   {
-    "countryName": "Tunisia",
+    "countryName": {
+      "en": "Tunisia",
+      "es": "Túnez"
+    },
     "countryShortCode": "TN",
     "regions": [
       {
@@ -16414,7 +17095,10 @@ return [
     ]
   },
   {
-    "countryName": "Turkey",
+    "countryName": {
+      "en": "Turkey",
+      "es": "Turquía"
+    },
     "countryShortCode": "TR",
     "regions": [
       {
@@ -16744,7 +17428,10 @@ return [
     ]
   },
   {
-    "countryName": "Turkmenistan",
+    "countryName": {
+      "en": "Turkmenistan",
+      "es": "Turkmenistán"
+    },
     "countryShortCode": "TM",
     "regions": [
       {
@@ -16774,7 +17461,10 @@ return [
     ]
   },
   {
-    "countryName": "Turks and Caicos Islands",
+    "countryName": {
+      "en": "Turks and Caicos Islands",
+      "es": "Turcas y Caicos, Islas"
+    },
     "countryShortCode": "TC",
     "regions": [
       {
@@ -16783,7 +17473,10 @@ return [
     ]
   },
   {
-    "countryName": "Tuvalu",
+    "countryName": {
+      "en": "Tuvalu",
+      "es": "Tuvalu"
+    },
     "countryShortCode": "TV",
     "regions": [
       {
@@ -16821,7 +17514,10 @@ return [
     ]
   },
   {
-    "countryName": "Uganda",
+    "countryName": {
+      "en": "Uganda",
+      "es": "Uganda"
+    },
     "countryShortCode": "UG",
     "regions": [
       {
@@ -17147,7 +17843,10 @@ return [
     ]
   },
   {
-    "countryName": "Ukraine",
+    "countryName": {
+      "en": "Ukraine",
+      "es": "Ucrania"
+    },
     "countryShortCode": "UA",
     "regions": [
       {
@@ -17261,7 +17960,10 @@ return [
     ]
   },
   {
-    "countryName": "United Arab Emirates",
+    "countryName": {
+      "en": "United Arab Emirates",
+      "es": "Emiratos Árabes Unidos"
+    },
     "countryShortCode": "AE",
     "regions": [
       {
@@ -17295,7 +17997,10 @@ return [
     ]
   },
   {
-    "countryName": "United Kingdom",
+    "countryName": {
+      "en": "United Kingdom",
+      "es": "Reino Unido de Gran Bretaña e Irlanda del Norte"
+    },
     "countryShortCode": "GB",
     "regions": [
       {
@@ -18169,7 +18874,10 @@ return [
     ]
   },
   {
-    "countryName": "United States",
+    "countryName": {
+      "en": "United States",
+      "es": "Estados Unidos de América"
+    },
     "countryShortCode": "US",
     "regions": [
       {
@@ -18423,7 +19131,10 @@ return [
     ]
   },
   {
-    "countryName": "United States Minor Outlying Islands",
+    "countryName": {
+      "en": "United States Minor Outlying Islands",
+      "es": "Islas Ultramarinas Menores de los Estados Unidos"
+    },
     "countryShortCode": "UM",
     "regions": [
       {
@@ -18473,7 +19184,10 @@ return [
     ]
   },
   {
-    "countryName": "Uruguay",
+    "countryName": {
+      "en": "Uruguay",
+      "es": "Uruguay"
+    },
     "countryShortCode": "UY",
     "regions": [
       {
@@ -18555,7 +19269,10 @@ return [
     ]
   },
   {
-    "countryName": "Uzbekistan",
+    "countryName": {
+      "en": "Uzbekistan",
+      "es": "Uzbekistán"
+    },
     "countryShortCode": "UZ",
     "regions": [
       {
@@ -18617,7 +19334,10 @@ return [
     ]
   },
   {
-    "countryName": "Vanuatu",
+    "countryName": {
+      "en": "Vanuatu",
+      "es": "Vanuatu"
+    },
     "countryShortCode": "VU",
     "regions": [
       {
@@ -18647,7 +19367,10 @@ return [
     ]
   },
   {
-    "countryName": "Venezuela, Bolivarian Republic of",
+    "countryName": {
+      "en": "Venezuela, Bolivarian Republic of",
+      "es": "Venezuela, República Bolivariana de"
+    },
     "countryShortCode": "VE",
     "regions": [
       {
@@ -18753,7 +19476,10 @@ return [
     ]
   },
   {
-    "countryName": "Vietnam",
+    "countryName": {
+      "en": "Vietnam",
+      "es": "Vietnam"
+    },
     "countryShortCode": "VN",
     "regions": [
       {
@@ -18951,7 +19677,10 @@ return [
     ]
   },
   {
-    "countryName": "Virgin Islands, British",
+    "countryName": {
+      "en": "Virgin Islands, British",
+      "es": "Vírgenes británicas, Islas"
+    },
     "countryShortCode": "VG",
     "regions": [
       {
@@ -18973,7 +19702,10 @@ return [
     ]
   },
   {
-    "countryName": "Virgin Islands, U.S.",
+    "countryName": {
+      "en": "Virgin Islands, U.S.",
+      "es": "Vírgenes de los Estados Unidos, Islas"
+    },
     "countryShortCode": "VI",
     "regions": [
       {
@@ -18991,7 +19723,10 @@ return [
     ]
   },
   {
-    "countryName": "Wallis and Futuna",
+    "countryName": {
+      "en": "Wallis and Futuna",
+      "es": "Wallis y Futuna"
+    },
     "countryShortCode": "WF",
     "regions": [
       {
@@ -19009,7 +19744,10 @@ return [
     ]
   },
   {
-    "countryName": "Western Sahara",
+    "countryName": {
+      "en": "Western Sahara",
+      "es": "Sahara Occidental"
+    },
     "countryShortCode": "EH",
     "regions": [
       {
@@ -19035,7 +19773,10 @@ return [
     ]
   },
   {
-    "countryName": "Yemen",
+    "countryName": {
+      "en": "Yemen",
+      "es": "Yemen"
+    },
     "countryShortCode": "YE",
     "regions": [
       {
@@ -19121,7 +19862,10 @@ return [
     ]
   },
   {
-    "countryName": "Zambia",
+    "countryName": {
+      "en": "Zambia",
+      "es": "Zambia"
+    },
     "countryShortCode": "ZM",
     "regions": [
       {
@@ -19163,7 +19907,10 @@ return [
     ]
   },
   {
-    "countryName": "Zimbabwe",
+    "countryName": {
+      "en": "Zimbabwe",
+      "es": "Zimbabue"
+    },
     "countryShortCode": "ZW",
     "regions": [
       {
